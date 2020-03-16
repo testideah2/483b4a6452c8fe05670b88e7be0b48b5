@@ -5,9 +5,9 @@
         xmlns:cdv="http://cordova.apache.org/ns/1.0"
         id          = "ua.buclick.app"
         versionCode = "10"
-        version     = "1.0.0">
+        version     = "1.1.0">
 
-    <name>ТЕСТ. buclick.com.ua</name>
+    <name>ТЕСТ. БуКлик</name>
 
     <description>
         Интернет-магазин для художественной гимнастики
@@ -30,7 +30,7 @@
     <preference name='WindowsToastCapable' value='true' />
 
     <preference name="SplashMaintainAspectRatio" value="true" />
-    <preference name="SplashScreenSpinnerColor" value="#B017C0" />
+    <preference name="SplashScreenSpinnerColor" value="#7C0CE1" />
     
     <platform name="android">
       <edit-config file="app/src/main/AndroidManifest.xml" mode="merge" target="/manifest/application">
